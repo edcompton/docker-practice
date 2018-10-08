@@ -1,0 +1,19 @@
+{
+  "name": "docker_web_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edcompton/docker-practice.git"
+  },
+  "author": "Ed Compton eahcompton@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edcompton/docker-practice/issues"
+  },
+  "homepage": "https://github.com/edcompton/docker-practice#readme"
+}
